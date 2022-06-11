@@ -1,0 +1,11 @@
+jupyter
+numpy
+scipy
+pandas
+Cython
+matplotlib
+statsmodels
+sympy
+arch
+scikit-learn
+cvxpy
